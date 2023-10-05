@@ -1,10 +1,17 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project showcase the usage of GitHub Pages with React.
+This use gh-pages npm package and GitHub Actions to deploy the build folder.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run deploy`
+
+Runs the deploy script to build and push the build folder in gh-pages branch
+GitHub Page deployes the content of gh-pages: 
+Open [https://quentin-b.github.io/Template_React_GitHub_Page/](https://quentin-b.github.io/Template_React_GitHub_Page/) to view it in your browser.
 
 ### `npm start`
 

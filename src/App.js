@@ -8,7 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          GitHub Action Deploy To GitHub Page Again
+          <br/>
+          This was deployed To GitHub Page with GitHub Action
         </p>
         <a
           className="App-link"
